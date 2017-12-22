@@ -1,0 +1,43 @@
+{
+  "name": "nameplate",
+  "version": "1.0.0",
+  "description": "A nameplate displaying useful info about your app",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js",
+    "test:watch": "tape-watcher test.js"
+  },
+  "keywords": [
+    "infracloud",
+    "express",
+    "connect",
+    "koa",
+    "boilerplate",
+    "nameplate",
+    "server",
+    "info",
+    "address",
+    "ip",
+    "port"
+  ],
+  "engines": {
+    "node": ">= 6.4"
+  },
+  "author": "Alex Borisov - Infracloud Limited",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/infracloud/nameplate.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.8.0",
+    "tape-watcher": "^0.0.7"
+  },
+  "bugs": {
+    "url": "http://github.com/infracloud/nameplate/issues"
+  },
+  "dependencies": {
+    "cli-table2": "^0.2.0",
+    "shortid": "^2.2.8"
+  }
+}
