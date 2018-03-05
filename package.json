@@ -1,6 +1,6 @@
 {
   "name": "nameplate",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A nameplate displaying useful info about your app",
   "main": "index.js",
   "scripts": {
@@ -23,10 +23,10 @@
   "engines": {
     "node": ">= 6.4"
   },
-  "author": "Alex Borisov - Infracloud Limited",
+  "author": "Alex Borisov",
   "repository": {
     "type": "git",
-    "url": "git://github.com/infracloud/nameplate.git"
+    "url": "git://github.com/alexborisov/nameplate.git"
   },
   "license": "LGPL-3.0+",
   "devDependencies": {
@@ -34,7 +34,7 @@
     "tape-watcher": "^0.0.7"
   },
   "bugs": {
-    "url": "http://github.com/infracloud/nameplate/issues"
+    "url": "http://github.com/alexborisov/nameplate/issues"
   },
   "dependencies": {
     "cli-table2": "^0.2.0",
