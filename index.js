@@ -1,6 +1,6 @@
 require("colors");
 
-const Table = require("cli-table2");
+const Table = require("cli-table3");
 const shortid = require("shortid");
 const os = require("os");
 const styles = require("./theme");
